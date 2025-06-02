@@ -65,4 +65,4 @@ Me chamo Gabryel de Souza Modesto, tenho 21 anos e sou natural de Vitória-ES. C
 
 ### 📊 Estatísticas
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Gabryel-Modesto&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel-Modesto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="150"/> |
+ <img src="https://github-readme-stats.vercel.app/api?username=Gabryel-Modesto&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400" height="150"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel-Modesto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" height="150"/> 
