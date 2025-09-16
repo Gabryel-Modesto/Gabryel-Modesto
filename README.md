@@ -1,8 +1,8 @@
 # 👨‍💻 Gabryel Modesto
 
-**`Desenvolvedor Full-Stack`**
+**`Analista de Dados Jr`**
 
-Me chamo Gabryel de Souza Modesto, tenho 21 anos e sou natural de Vitória-ES. Concluí meu curso técnico em Desenvolvimento de Sistemas no Senai em 2024. Atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na FAESA. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através do LinkedIn: "[Gabryel-Modesto](https://www.linkedin.com/in/gabryel-modesto/)", e também posto alguns estudos do meu dia a dia no Instagram: "[dev_gabryel](https://www.instagram.com/dev_gabryel/)".
+Me chamo Gabryel de Souza Modesto, tenho 21 anos e sou natural de Vitória-ES. Concluí meu curso técnico em Desenvolvimento de Sistemas no Senai em 2024. Atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na FAESA. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através do LinkedIn: "[Gabryel-Modesto](https://www.linkedin.com/in/gabryel-modesto/)", e também posto alguns estudos do meu dia a dia no Instagram: "[dev_gabryel](https://www.instagram.com/gabryel_modesto/)".
 
 <p align="left">
   <a href="https://github.com/Gabryel-Modesto?tab=followers">
@@ -59,6 +59,30 @@ Me chamo Gabryel de Souza Modesto, tenho 21 anos e sou natural de Vitória-ES. C
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+  <img 
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+  <img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <img 
+  align="left"
+  alt="Oracle"
+  title="Oracle"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 <br />
 <br />
