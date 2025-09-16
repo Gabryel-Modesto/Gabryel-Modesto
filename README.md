@@ -81,7 +81,7 @@ Me chamo Gabryel de Souza Modesto, tenho 21 anos e sou natural de Vitória-ES. C
   alt="Oracle"
   title="Oracle"
   width="50px"
-  style="padding-right: 20px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 
 <br />
