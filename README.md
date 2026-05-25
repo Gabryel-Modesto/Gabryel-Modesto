@@ -2,7 +2,7 @@
 
 **`Analista de Dados Jr`**
 
-Me chamo Gabryel de Souza Modesto, tenho 21 anos e sou natural de Vitória-ES. Concluí meu curso técnico em Desenvolvimento de Sistemas no Senai em 2024. Atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na FAESA. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através do LinkedIn: "[Gabryel-Modesto](https://www.linkedin.com/in/gabryel-modesto/)", e também posto alguns estudos do meu dia a dia no Instagram: "[gabryel_modesto](https://www.instagram.com/gabryel_modesto/)".
+Me chamo Gabryel de Souza Modesto, tenho 22 anos e sou natural de Vitória-ES. Concluí meu curso técnico em Desenvolvimento de Sistemas no Senai em 2024. Atualmente, estou cursando o Tecnólogo em Análise e Desenvolvimento de Sistemas na FAESA. Sou apaixonado por tecnologia e compartilho meus estudos e projetos através do LinkedIn: "[Gabryel-Modesto](https://www.linkedin.com/in/gabryel-modesto/)", e também posto alguns estudos do meu dia a dia no Instagram: "[gabryel_modesto](https://www.instagram.com/gabryel_modesto/)".
 
 <p align="left">
   <a href="https://github.com/Gabryel-Modesto?tab=followers">
