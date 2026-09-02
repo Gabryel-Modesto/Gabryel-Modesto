@@ -23,45 +23,7 @@ Atualmente, compartilho meus projetos, estudos e evolução profissional atravé
       title="Total de estrelas no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/Gabryel-Modesto?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabryel-modesto/">
-    <img 
-      alt="LinkedIn"
-      title="Meu LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
 </p>
-
----
-
-## 🚀 Principais projetos
-
-### 📊 DataMerge
-
-Ferramenta desenvolvida em Python para **cruzamento e consolidação de informações entre diferentes planilhas Excel**, automatizando processos que normalmente seriam realizados manualmente.
-
-**Tecnologias:** Python • Pandas • Excel
-
-🔗 [Repositório](https://github.com/Gabryel-Modesto/DataMerge)
-
----
-
-### 💰 EasyRefund
-
-Sistema desenvolvido como projeto de conclusão de curso para gerenciamento de **solicitações de reembolso**, envolvendo frontend, backend e banco de dados.
-
-**Tecnologias:** React • Node.js • MySQL
-
-🔗 [Repositório](https://github.com/Gabryel-Modesto/EasyRefund)
-
----
-
-### 🌐 Portfólio
-
-Meu portfólio pessoal, desenvolvido para apresentar minha trajetória, projetos e conhecimentos em tecnologia.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-🔗 [Acessar portfólio](https://gabryel-modesto.github.io/Portfolio/)
 
 ---
 
@@ -73,7 +35,6 @@ Meu portfólio pessoal, desenvolvido para apresentar minha trajetória, projetos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="SQL / MySQL"/>
 </p>
 
 ### Desenvolvimento Web
@@ -88,20 +49,10 @@ Meu portfólio pessoal, desenvolvido para apresentar minha trajetória, projetos
 ### Dados e Banco de Dados
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40px" title="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40px" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40px" title="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
 </p>
-
----
-
-## 📚 Atualmente estudando
-
-* Desenvolvimento de aplicações com **React, TypeScript e Node.js**
-* **Java** e Programação Orientada a Objetos
-* Banco de dados e SQL
-* Arquitetura e organização de sistemas
-* Boas práticas de desenvolvimento
 
 ---
 
