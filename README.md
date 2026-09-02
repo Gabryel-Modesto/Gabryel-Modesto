@@ -2,13 +2,11 @@
 
 ### Analista de Dados Júnior | Desenvolvimento de Sistemas
 
-Sou profissional de tecnologia com formação técnica em **Desenvolvimento de Sistemas pelo SENAI** e atualmente curso **Análise e Desenvolvimento de Sistemas na FAESA**.
+Atuo na área de tecnologia com foco em dados, desenvolvimento de sistemas e automação de processos. Tenho formação técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Análise e Desenvolvimento de Sistemas na FAESA.
 
-Tenho experiência com **dados, bancos de dados, desenvolvimento de sistemas e automação**, utilizando tecnologias como Python, JavaScript, Java, SQL, Oracle, React e Node.js.
+Tenho experiência e projetos utilizando Python, Pandas, Java, Spring Boot, JavaScript, React, Node.js, SQL e bancos de dados como Oracle, MySQL e PostgreSQL.
 
-Gosto de transformar problemas do dia a dia em soluções que possam **automatizar processos, organizar informações e facilitar a tomada de decisões**.
-
-Atualmente, compartilho meus projetos, estudos e evolução profissional através do GitHub e do LinkedIn.
+Gosto de transformar problemas em soluções através da tecnologia, buscando desenvolver sistemas e ferramentas que automatizem processos, organizem informações e gerem valor para o negócio.
 
 <p align="left">
   <a href="https://github.com/Gabryel-Modesto?tab=followers">
